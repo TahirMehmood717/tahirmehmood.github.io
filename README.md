@@ -1,7 +1,7 @@
 
-  # Personal website
+  # tahirmehmood.github.io
 
-  This is a code bundle for Personal website. The original project is available at https://www.figma.com/design/r4CuJvLr1eNcn0kwpEjKGa/Personal-website.
+  This is a code bundle for tahirmehmood.github.io. The original project is available at https://www.figma.com/design/r4CuJvLr1eNcn0kwpEjKGa/tahirmehmood.github.io.
 
   ## Running the code
 
